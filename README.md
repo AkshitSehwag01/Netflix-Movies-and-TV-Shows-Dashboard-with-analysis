@@ -30,6 +30,10 @@ Interactive filters and slicers for deep analysis
 
 📷 Dashboard Preview
 
+![Dashboard Preview](Netflix-Movies-and-TV-Shows-Dashboard.png)
+
+
+
 
 📁 Files Included
 Netflix Moveis and TV Shows Dashboard.pbix – Power BI dashboard file
